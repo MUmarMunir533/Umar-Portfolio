@@ -19,3 +19,5 @@
 13. [Code Snippets](#code-snippets)
 14. [API Documentation](#api-documentation)
 15. [Project Management](#project-management)
+16. [Collaboration](#collaboration)
+17. [Problem-Solving](#problem-solving)
