@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Front-End Developer With React.JS ",
+    "organisation": "Oriento Tech",
+    "startDate": "Sept, 2019",
+    "endDate": "sep, 2020",
+    "location": "Mureedwala, Faisalabad Pakistan",
+    "experiences": [
+      "Worked on Website Designing",
+      "Worked with Api integration With Teements and Development"
+    ],
+    "imageSrc": "company/oriento.png"
+  },
+  {
+    "id": 2,
+    "role": "Front-End Developer With React.JS ",
+    "organisation": "BlueHorn Technologies",
+    "startDate": "March, 2024",
+    "endDate": "April, 2024",
+    "location": "Lahore, Pakistan",
+    "experiences": [
+      "Worked on Crud operations",
+      "Worked on Route Management and Context Api"
+    ],
+    "imageSrc": "company/bh.png"
+  },
+  {
+    "id": 3,
+    "role": "Netflix Clone With HTML, CSS and JavaScript",
+    "organisation": "Home Development",
+    "startDate": "Apr, 2023",
+    "endDate": "may, 2023",
+    "experiences": [
+      "Worked on Nextflix Clone",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
